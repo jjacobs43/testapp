@@ -18,7 +18,7 @@ public class RestClient {
 		final MultiValueMap<String, String> postParams = new LinkedMultiValueMap<String, String>();
 		String attrib1[] = new String[]{"jjacobs43%40hotmail.com"};
 		postParams.put("email", Arrays.asList(attrib1));
-		String attrib2[] = new String[]{"Cougar94"};
+		String attrib2[] = new String[]{"Sm14Tu4"};
 		postParams.put("password", Arrays.asList(attrib2));
 		String attrib3[] = new String[]{"http%3A%2F%2Fwww.fantasyguru.com%2Ffootball%2Fsubscribers%2Fftdb.php%3Fpage%3Dprojections"};
 		postParams.put("redirect", Arrays.asList(attrib3));
